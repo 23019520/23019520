@@ -13,7 +13,7 @@ I'm glad you stopped by — hope you find something interesting here.
 
 ---
 
-### ⚡ A bit about me
+###  A bit about me
 - I love food 🍔
 - I enjoy meeting new people
 - I'm very talkative 😅
