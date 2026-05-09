@@ -1,28 +1,21 @@
-Hi there 👋
+# 💫 About Me:
+23019520/README.md<br>Hi there 👋<br><br>I'm Una — an aspiring Software Engineer from South Africa 🇿🇦<br><br>I build different kinds of things — from mobile apps and web projects to AI/ML, games, and experiments.<br><br>Most of my earlier projects were about learning and exploring different fields.<br>Now I'm starting to focus more on building real, impactful projects.<br><br>I currently have a few projects in the works including a fully autonomous app called Phase Out 👀).<br><br>I'm glad you stopped by — hope you find something interesting here.<br><br>A bit about me<br>I love food 🍔<br>I enjoy meeting new people<br>I'm very talkative 😅<br>I try to be kind to everyone<br>I tutored one of the top private classes at uni<br>I started coding before classes even began<br>
 
-I'm Una — an aspiring Software Engineer from South Africa 🇿🇦
 
-I build different kinds of things — from mobile apps and web projects to AI/ML, games, and experiments.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/unarine-dzivhani-programmer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@unarinedzivhani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unarined3@gmail.com) 
 
-Most of my earlier projects were about learning and exploring different fields.  
-Now I'm starting to focus more on building real, impactful projects.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=23019520&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=23019520&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=23019520&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I currently have a few projects in the works (one of them is called *Phase Out* 👀).
-
-I'm glad you stopped by — hope you find something interesting here.
-
----
-
-###  A bit about me
-- I love food 🍔
-- I enjoy meeting new people
-- I'm very talkative 😅
-- I try to be kind to everyone
-- I tutored one of the top private classes at uni
-- I started coding before classes even began
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=23019520&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=23019520&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Contact me
-unarined3@gmail.com
-www.linkedin.com/in/unarine-dzivhani-programmer
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
